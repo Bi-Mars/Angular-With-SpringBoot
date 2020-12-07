@@ -1,0 +1,1 @@
+Let's create a fully fledged web application that interacts with database using Spring Boot, Spring REST, and Angular with TypeScript
